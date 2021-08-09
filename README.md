@@ -1,7 +1,12 @@
-# Forkify
-This a recipe loading web-app.
+## Forkify
 
-In this we can search for various type of recipes.
+This is a website that gets different recipes from an API.
 
-In this I have used Forkify API v2 from Jonas Schmedtman:-
-https://forkify-api.herokuapp.com/v2
+This is live on https://forkify-recipee.netlify.app
+
+## Build With
+
+1. HTML
+2. CSS
+3. Javascript
+4. Parcel
